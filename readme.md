@@ -1,0 +1,1 @@
+In this repo is mini project in this i have made a chat application using websocket in spring boot.
